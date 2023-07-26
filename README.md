@@ -10,4 +10,4 @@ Fork this tutorial and add your name to the README.md
 * Genomics Lead KEMRI/USAMRD-A
 ### Dennis Otieno
 
-* BSc Microbiology *
+* BSc Microbiology 
