@@ -9,5 +9,11 @@ Fork this tutorial and add your name to the README.md
 
 
 * Genomics Lead KEMRI/USAMRD-A
+
 ### Brian KImutai
 *Bsc. Microbiology
+
+### Collins Malii Wachira
+
+* Medical mirobiology
+
