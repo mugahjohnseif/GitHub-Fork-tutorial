@@ -11,4 +11,6 @@ Fork this tutorial and add your name to the README.md
 
   ### Vanessa Muthoni
 
-  * student
+  * Microbiology and Biotechnology
+ 
+  
