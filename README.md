@@ -11,4 +11,4 @@ Fork this tutorial and add your name to the README.md
 
 ### Roselyne Achieng'
 
-* BSc. Biochemistry
+* BSc. Biochemistry uon
