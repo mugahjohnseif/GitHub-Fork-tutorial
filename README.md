@@ -7,12 +7,15 @@ Fork this tutorial and add your name to the README.md
 
 ### Collins Kigen
 
-
 * Genomics Lead KEMRI/USAMRD-A
 
+### Vanessa Muthoni
 
+  * Microbiology and Biotechnology
+ 
 ### Brian KImutai
-*Bsc. Microbiology
+
+* Bsc. Microbiology
 
 ### Roselyne Achieng'
 
@@ -29,7 +32,6 @@ Fork this tutorial and add your name to the README.md
 * Microbiology 
 
 ### Moses Gachoya
-* Microbiology
 
 * Medical mirobiology
 
