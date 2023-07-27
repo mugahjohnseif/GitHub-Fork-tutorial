@@ -9,6 +9,10 @@ Fork this tutorial and add your name to the README.md
 
 * Genomics Lead KEMRI/USAMRD-A
 
+### Roselyne Achieng'
+
+* BSc. Biochemistry uon
+=======
 ### Dennis Otieno.
 
 * BSc Microbiology  
