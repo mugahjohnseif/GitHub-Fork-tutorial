@@ -8,6 +8,12 @@ Fork this tutorial and add your name to the README.md
 ### Collins Kigen
 
 * Genomics Lead KEMRI/USAMRD-A
+
+### Dennis Otieno.
+
+* BSc Microbiology  
+
 ### Collins Malii Wachira
 
 * Medical mirobiology
+
