@@ -10,6 +10,9 @@ Fork this tutorial and add your name to the README.md
 * Genomics Lead KEMRI/USAMRD-A
 
 
+### Karen Cherono
+* Bsc Microbiology
+
 ### Oumarou Soro
 
 * Msc. Molecular Biology and Biotechnology
@@ -39,5 +42,4 @@ Fork this tutorial and add your name to the README.md
 ### Moses Gachoya
 
 * Medical mirobiology
-
 
