@@ -12,3 +12,12 @@ Fork this tutorial and add your name to the README.md
 ### Roselyne Achieng'
 
 * BSc. Biochemistry uon
+=======
+### Dennis Otieno.
+
+* BSc Microbiology  
+
+### Collins Malii Wachira
+
+* Medical mirobiology
+
