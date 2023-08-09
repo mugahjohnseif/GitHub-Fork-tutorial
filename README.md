@@ -42,4 +42,8 @@ Fork this tutorial and add your name to the README.md
 ### Moses Gachoya
 
 * Medical mirobiology
+  
+ ### Joseph Mugah
+
+  * BSc MLS
 
